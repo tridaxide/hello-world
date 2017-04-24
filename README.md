@@ -1,2 +1,4 @@
 # hello-world
-This is where to put some coding and stuff.
+
+I just like coding and do it either as a hobby or as a job.
+Testing the commit changes stuff.
